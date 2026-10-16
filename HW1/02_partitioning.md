@@ -20,3 +20,8 @@ module header
 ```
 module header
 ```
+## FP16 Accumulator
+حاصل‌ ضرب‌ های FP16 را با ترتیب مشخص و از مقدار بایاس نورون به‌ عنوان مقدار اولیه، جمع میکند.
+```
+module header
+```
