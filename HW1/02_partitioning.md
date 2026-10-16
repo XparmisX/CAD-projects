@@ -25,3 +25,8 @@ module header
 ```
 module header
 ```
+## FP16 Adder
+دو عدد FP16 را با یکدیگر جمع می‌کند.
+```
+module header
+```
